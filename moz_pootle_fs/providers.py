@@ -15,4 +15,4 @@ from .ios import IOSSerializer
 
 @provider(fs_serializers)
 def moz_serializer_providers(**kwargs):
-    return dict(ios_serializer=IOSSerializer)
+    return dict(ios=IOSSerializer)
