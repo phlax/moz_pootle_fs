@@ -8,11 +8,16 @@
 
 from pootle.core.plugin import provider
 
-from pootle_fs.delegate import fs_serializers
+from pootle.core.delegate import serializers, deserializers
 
-from .ios import IOSSerializer
+from .ios import IOSSerializer, IOSDeserializer
 
 
-@provider(fs_serializers)
+@provider(serializers)
 def moz_serializer_providers(**kwargs):
     return dict(ios=IOSSerializer)
+
+
+@provider(deserializers)
+def moz_deserializer_providers(**kwargs):
+    return dict(ios=IOSDeserializer)
