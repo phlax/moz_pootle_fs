@@ -30,4 +30,4 @@ setup(
     ],
     keywords='mozilla pootle filesystem plugins',
     packages=find_packages(exclude=['contrib', 'docs', 'tests*']),
-    install_requires=['pootle'])
+    install_requires=['pootle', 'pytidylib'])
