@@ -29,8 +29,18 @@ def ios_file():
     return content
 
 
+@pytest.fixture(scope="session")
+def ios_pootle_file():
+    ios_xliff = os.path.join(
+        os.path.dirname(__file__),
+        "data/pootle-firefox-ios.xliff")
+    with open(ios_xliff) as xliff_file:
+        content = xliff_file.read().decode("utf8")
+    return content
+
+
 @pytest.fixture(scope="session", autouse=True)
-def moz_env(post_db_setup, _django_cursor_wrapper, ios_file):
+def moz_env(post_db_setup, _django_cursor_wrapper, ios_pootle_file):
 
     from django.conf import settings
 
@@ -53,7 +63,7 @@ def moz_env(post_db_setup, _django_cursor_wrapper, ios_file):
             parent=ios_tp.directory,
             translation_project=ios_tp,
             name="firefox-ios.xliff")
-        ios_bytes = io.BytesIO(ios_file.encode("utf8"))
+        ios_bytes = io.BytesIO(ios_pootle_file.encode("utf8"))
         ios_store.update(
             getclass(ios_bytes)(ios_bytes.read()))
 
