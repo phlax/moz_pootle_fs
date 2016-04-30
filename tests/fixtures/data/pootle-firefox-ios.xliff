@@ -1,0 +1,2009 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="NoName" source-language="en" datatype="plaintext" target-language="af">
+    <body>
+      <trans-unit xml:space="preserve" approved="yes" id="Account/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Account/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated">4.0.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AccountTests/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="AccountTests/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated">4.0.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/3DTouchActions.strings__%04__Add to Bookmarks">
+        <source>Add to Bookmarks</source>
+        <target state="translated"></target>
+        <note from="developer">Label for preview action on Tab Tray Tab to add current tab to Bookmarks</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/3DTouchActions.strings__%04__Add to Reading List">
+        <source>Add to Reading List</source>
+        <target state="translated">Voeg by leeslys</target>
+        <note from="developer">Label for preview action on Tab Tray Tab to add current tab to Reading List</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/3DTouchActions.strings__%04__Close Tab">
+        <source>Close Tab</source>
+        <target state="translated"></target>
+        <note from="developer">Label for preview action on Tab Tray Tab to close the current tab</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/3DTouchActions.strings__%04__Copy URL">
+        <source>Copy URL</source>
+        <target state="translated"></target>
+        <note from="developer">Label for preview action on Tab Tray Tab to copy the URL of the current tab to clipboard</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/3DTouchActions.strings__%04__Open Last Bookmark">
+        <source>Open Last Bookmark</source>
+        <target state="translated"></target>
+        <note from="developer">String describing the action of opening the last added bookmark from the home screen Quick Actions via 3D Touch</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/3DTouchActions.strings__%04__Open Last Tab">
+        <source>Open Last Tab</source>
+        <target state="translated"></target>
+        <note from="developer">String describing the action of opening the last tab sent to Firefox from the home screen Quick Actions via 3D Touch</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/3DTouchActions.strings__%04__Preview of %@">
+        <source>Preview of %@</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility Label for preview in Tab Tray of current tab</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/3DTouchActions.strings__%04__Send to Device">
+        <source>Send to Device</source>
+        <target state="translated"></target>
+        <note from="developer">Label for preview action on Tab Tray Tab to send the current tab to another device</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__After 1 hour">
+        <source>After 1 hour</source>
+        <target state="translated">Na 1 uur</target>
+        <note from="developer">'After 1 hour' interval item for selecting when to require passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__After 1 minute">
+        <source>After 1 minute</source>
+        <target state="translated">Na 1 minuut</target>
+        <note from="developer">'After 1 minute' interval item for selecting when to require passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__After 5 minutes">
+        <source>After 5 minutes</source>
+        <target state="translated">Na 5 minute</target>
+        <note from="developer">'After 5 minutes' interval item for selecting when to require passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__After 10 minutes">
+        <source>After 10 minutes</source>
+        <target state="translated">Na 10 minute</target>
+        <note from="developer">'After 10 minutes' interval item for selecting when to require passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__After 15 minutes">
+        <source>After 15 minutes</source>
+        <target state="translated">Na 15 minute</target>
+        <note from="developer">'After 15 minutes' interval item for selecting when to require passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Change Passcode">
+        <source>Change Passcode</source>
+        <target state="translated">Verander wagkode</target>
+        <note from="developer">Title for screen when changing your passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Enter Passcode">
+        <source>Enter Passcode</source>
+        <target state="translated">Voer wagkode in</target>
+        <note from="developer">Screen title for entering a passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Enter a new passcode">
+        <source>Enter a new passcode</source>
+        <target state="translated"></target>
+        <note from="developer">Title for screen when updating your existin passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Enter a passcode">
+        <source>Enter a passcode</source>
+        <target state="translated"></target>
+        <note from="developer">Title above input for entering a passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Enter passcode">
+        <source>Enter passcode</source>
+        <target state="translated">Voer wagkode in</target>
+        <note from="developer">Title above input for entering passcode while removing/changing</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Immediately">
+        <source>Immediately</source>
+        <target state="translated">Onmiddellik</target>
+        <note from="developer">'Immediately' interval item for selecting when to require passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Incorrect passcode. Try again (Attempts remaining: %d).">
+        <source>Incorrect passcode. Try again (Attempts remaining: %d).</source>
+        <target state="translated"></target>
+        <note from="developer">Error message displayed when user enters incorrect passcode when trying to enter a protected section of the app with attempts remaining</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Incorrect passcode. Try again.">
+        <source>Incorrect passcode. Try again.</source>
+        <target state="translated"></target>
+        <note from="developer">Error message displayed when user enters incorrect passcode when trying to enter a protected section of the app</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Maximum attempts reached. Please try again in an hour.">
+        <source>Maximum attempts reached. Please try again in an hour.</source>
+        <target state="translated"></target>
+        <note from="developer">Error message displayed when user enters incorrect passcode and has reached the maximum number of attempts.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Maximum attempts reached. Please try again later.">
+        <source>Maximum attempts reached. Please try again later.</source>
+        <target state="translated"></target>
+        <note from="developer">Error message displayed when user enters incorrect passcode and has reached the maximum number of attempts.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__New passcode must be different than existing code.">
+        <source>New passcode must be different than existing code.</source>
+        <target state="translated"></target>
+        <note from="developer">Error message displayed when user tries to enter the same passcode as their existing code when changing it.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Passcode">
+        <source>Passcode</source>
+        <target state="translated">Wagkode</target>
+        <note from="developer">List section title for passcode settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Passcodes didn't match. Try again.">
+        <source>Passcodes didn't match. Try again.</source>
+        <target state="translated"></target>
+        <note from="developer">Error message displayed to user when their confirming passcode doesn't match the first code.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Re-enter passcode">
+        <source>Re-enter passcode</source>
+        <target state="translated"></target>
+        <note from="developer">Title for re-entering a passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Require Passcode">
+        <source>Require Passcode</source>
+        <target state="translated">Vereis wagkode</target>
+        <note from="developer">Title for setting to require a passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Set Passcode">
+        <source>Set Passcode</source>
+        <target state="translated">Stel wagkode</target>
+        <note from="developer">Screen title for Set Passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Touch ID &amp; Passcode">
+        <source>Touch ID &amp; Passcode</source>
+        <target state="translated"></target>
+        <note from="developer">Title for Touch ID/Passcode settings option</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Turn Passcode Off">
+        <source>Turn Passcode Off</source>
+        <target state="translated"></target>
+        <note from="developer">Title for setting to turn off passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Turn Passcode On">
+        <source>Turn Passcode On</source>
+        <target state="translated"></target>
+        <note from="developer">Title for setting to turn on passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Turn off your passcode.">
+        <source>Turn off your passcode.</source>
+        <target state="translated"></target>
+        <note from="developer">Touch ID prompt subtitle when turning off passcode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Use Touch ID">
+        <source>Use Touch ID</source>
+        <target state="translated"></target>
+        <note from="developer">List section title for when to use Touch ID</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Use your fingerprint to access Logins now.">
+        <source>Use your fingerprint to access Logins now.</source>
+        <target state="translated"></target>
+        <note from="developer">Touch ID prompt subtitle when accessing logins</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__Use your fingerprint to access Private Browsing now.">
+        <source>Use your fingerprint to access Private Browsing now.</source>
+        <target state="translated"></target>
+        <note from="developer">Touch ID prompt subtitle when accessing private browsing</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__touchid.disable.reason.label">
+        <source>Use your fingerprint to disable Touch ID.</source>
+        <target state="translated"></target>
+        <note from="developer">Touch ID prompt subtitle when disabling Touch ID</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/AuthenticationManager.strings__%04__touchid.require.passcode.reason.label">
+        <source>Use your fingerprint to access configuring your required passcode interval.</source>
+        <target state="translated"></target>
+        <note from="developer">Touch ID prompt subtitle when accessing the require passcode setting</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/BookmarkPanel.strings__%04__Delete">
+        <source>Delete</source>
+        <target state="translated">Verwyder</target>
+        <note from="developer">Action button for deleting bookmarks in the bookmarks panel.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/BookmarkPanel.strings__%04__Desktop Bookmarks">
+        <source>Desktop Bookmarks</source>
+        <target state="translated"></target>
+        <note from="developer">The folder name for the virtual folder that contains all desktop bookmarks.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/BookmarkPanelDeleteConfirm.strings__%04__Are you sure you want to delete it and its contents?">
+        <source>Are you sure you want to delete it and its contents?</source>
+        <target state="translated"></target>
+        <note from="developer">Main body of the confirmation alert when the user tries to delete a folder that still contains bookmarks and/or folders.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/BookmarkPanelDeleteConfirm.strings__%04__Cancel">
+        <source>Cancel</source>
+        <target state="translated">Kanselleer</target>
+        <note from="developer">Button label to cancel deletion when the user tried to delete a non-empty folder.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/BookmarkPanelDeleteConfirm.strings__%04__Delete">
+        <source>Delete</source>
+        <target state="translated">Verwyder</target>
+        <note from="developer">Button label for the button that deletes a folder and all of its children.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/BookmarkPanelDeleteConfirm.strings__%04__This folder isn't empty.">
+        <source>This folder isn't empty.</source>
+        <target state="translated"></target>
+        <note from="developer">Title of the confirmation alert when the user tries to delete a folder that still contains bookmarks and/or folders.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearHistoryConfirm.strings__%04__Cancel">
+        <source>Cancel</source>
+        <target state="translated">Kanselleer</target>
+        <note from="developer">The cancel button when confirming clear history.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearHistoryConfirm.strings__%04__Clear">
+        <source>Clear</source>
+        <target state="translated">Maak skoon</target>
+        <note from="developer">The button that clears history even when Sync is connected.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearHistoryConfirm.strings__%04__History will be removed from all your connected devices. This cannot be undone.">
+        <source>History will be removed from all your connected devices. This cannot be undone.</source>
+        <target state="translated"></target>
+        <note from="developer">Description of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearHistoryConfirm.strings__%04__OK">
+        <source>OK</source>
+        <target state="translated"></target>
+        <note from="developer">The confirmation button that clears history even when Sync is connected.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearHistoryConfirm.strings__%04__Remove history from your Firefox Account?">
+        <source>Remove history from your Firefox Account?</source>
+        <target state="translated"></target>
+        <note from="developer">Title of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearHistoryConfirm.strings__%04__This action will clear all of your private data, including history from your synced devices.">
+        <source>This action will clear all of your private data, including history from your synced devices.</source>
+        <target state="translated"></target>
+        <note from="developer">Description of the confirmation dialog shown when a user tries to clear history that's synced to another device.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateData.strings__%04__Are you sure you want to clear all of your data? This will also close all open tabs.">
+        <source>Are you sure you want to clear all of your data? This will also close all open tabs.</source>
+        <target state="translated"></target>
+        <note from="developer">Message shown in the dialog prompting users if they want to clear everything</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateData.strings__%04__Browsing History">
+        <source>Browsing History</source>
+        <target state="translated"></target>
+        <note from="developer">Settings item for clearing browsing history</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateData.strings__%04__Cache">
+        <source>Cache</source>
+        <target state="translated">Kas</target>
+        <note from="developer">Settings item for clearing the cache</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateData.strings__%04__Cancel">
+        <source>Cancel</source>
+        <target state="translated">Kanselleer</target>
+        <note from="developer">Used as a button label in the dialog to cancel clear private data dialog</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateData.strings__%04__Clear">
+        <source>Clear</source>
+        <target state="translated">Maak skoon</target>
+        <note from="developer">Used as a button label in the dialog to Clear private data dialog</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateData.strings__%04__Clear Everything">
+        <source>Clear Everything</source>
+        <target state="translated"></target>
+        <note from="developer">Title of the Clear private data dialog.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateData.strings__%04__Clear Private Data">
+        <source>Clear Private Data</source>
+        <target state="translated"></target>
+        <note from="developer">Button in settings that clears private data for the selected items.
+   Navigation title in settings.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateData.strings__%04__Cookies">
+        <source>Cookies</source>
+        <target state="translated">Koekies</target>
+        <note from="developer">Settings item for clearing cookies</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateData.strings__%04__Offline Website Data">
+        <source>Offline Website Data</source>
+        <target state="translated">Vanlyn webwerfdata</target>
+        <note from="developer">Settings item for clearing website data</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateData.strings__%04__Saved Logins">
+        <source>Saved Logins</source>
+        <target state="translated">Gestoorde aanmeldings</target>
+        <note from="developer">Settings item for clearing passwords and login data</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateDataConfirm.strings__%04__Cancel">
+        <source>Cancel</source>
+        <target state="translated">Kanselleer</target>
+        <note from="developer">The cancel button when confirming clear private data.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateDataConfirm.strings__%04__OK">
+        <source>OK</source>
+        <target state="translated"></target>
+        <note from="developer">The button that clears private data.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ClearPrivateDataConfirm.strings__%04__This action will clear all of your private data. It cannot be undone.">
+        <source>This action will clear all of your private data. It cannot be undone.</source>
+        <target state="translated"></target>
+        <note from="developer">Description of the confirmation dialog shown when a user tries to clear their private data.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ErrorPages.strings__%04__Open in Safari">
+        <source>Open in Safari</source>
+        <target state="translated"></target>
+        <note from="developer">Shown in error pages for files that can't be shown and need to be downloaded.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/ErrorPages.strings__%04__Try again">
+        <source>Try again</source>
+        <target state="translated">Probeer weer</target>
+        <note from="developer">Shown in error pages on a button that will try to load the page again</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/FindInPage.strings__%04__Done">
+        <source>Done</source>
+        <target state="translated">Klaar</target>
+        <note from="developer">Done button in Find in Page Toolbar.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/FindInPage.strings__%04__Find in Page">
+        <source>Find in Page</source>
+        <target state="translated">Vind in bladsy</target>
+        <note from="developer">Text selection menu item</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/FindInPage.strings__%04__Next in-page result">
+        <source>Next in-page result</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for next result button in Find in Page Toolbar.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/FindInPage.strings__%04__Previous in-page result">
+        <source>Previous in-page result</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for previous result button in Find in Page Toolbar.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/HistoryPanel.strings__%04__Remove">
+        <source>Remove</source>
+        <target state="translated"></target>
+        <note from="developer">Action button for deleting history entries in the history panel.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Info.plist__%04__CFBundleDisplayName">
+        <source>$(MOZ_BUNDLE_DISPLAY_NAME)</source>
+        <target state="translated">$(MOZ_BUNDLE_DISPLAY_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Info.plist__%04__CFBundleName">
+        <source>$(MOZ_PRODUCT_NAME)</source>
+        <target state="translated">$(MOZ_PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated">4.0.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Info.plist__%04__NSLocationWhenInUseUsageDescription">
+        <source>Websites you visit may request your location.</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Info.plist__%04__ShortcutItemTitleNewPrivateTab">
+        <source>New Private Tab</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Info.plist__%04__ShortcutItemTitleNewTab">
+        <source>New Tab</source>
+        <target state="translated">Nuwe oortjie</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Browse multiple Web pages at the same time with tabs.">
+        <source>Browse multiple Web pages at the same time with tabs.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Choose">
+        <source>Choose</source>
+        <target state="translated">Kies</target>
+        <note from="developer">See http://mzl.la/1if9ODp</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Connect Firefox everywhere you use it.">
+        <source>Connect Firefox everywhere you use it.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Customize">
+        <source>Customize</source>
+        <target state="translated">Doelmaak</target>
+        <note from="developer">See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Easily switch between open pages with tabs.">
+        <source>Easily switch between open pages with tabs.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1if9ODp</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Firefox and the cloud">
+        <source>Firefox and the cloud</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for an image. See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Introductory slide %@ of %@">
+        <source>Introductory slide %1$@ of %2$@</source>
+        <target state="translated"></target>
+        <note from="developer">String spoken by assistive technology (like VoiceOver) stating on which page of the intro wizard we currently are. E.g. Introductory slide 1 of 3</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Organize">
+        <source>Organize</source>
+        <target state="translated">Organiseer</target>
+        <note from="developer">See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Personalize your Firefox just the way you like in Settings.">
+        <source>Personalize your Firefox just the way you like in Settings.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Personalize your default search engine and more in Settings.">
+        <source>Personalize your default search engine and more in Settings.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1if9ODp</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Share">
+        <source>Share</source>
+        <target state="translated">Deel</target>
+        <note from="developer">See http://mzl.la/1if9ODp</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Sign in to Firefox">
+        <source>Sign in to Firefox</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Start Browsing">
+        <source>Start Browsing</source>
+        <target state="translated">Begin te blaai</target>
+        <note from="developer">See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Sync your Devices.">
+        <source>Sync your Devices.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1if9ODp</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Tap, hold and move the Firefox icon into your dock for easy access.">
+        <source>Tap, hold and move the Firefox icon into your dock for easy access.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1if9ODp</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__The Settings button is at the beginning of the Tabs Tray.">
+        <source>The Settings button is at the beginning of the Tabs Tray.</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for an image. See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__The Show Tabs button is next to the Address and Search text field and displays the current number of open tabs.">
+        <source>The Show Tabs button is next to the Address and Search text field and displays the current number of open tabs.</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for an image. See http://mzl.la/1T8gxwo</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Intro.strings__%04__Use the share sheet to send links from other apps to Firefox.">
+        <source>Use the share sheet to send links from other apps to Firefox.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1if9ODp</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__Allow Firefox to use my Photos">
+        <source>Allow Firefox to use my Photos</source>
+        <target state="translated"></target>
+        <note from="developer">Pending feature; currently unused string! Button shown when user wishes to view photos for theme but has not given Firefox permission to do so yet.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__Back to Themes">
+        <source>Back to Themes</source>
+        <target state="translated"></target>
+        <note from="developer">Pending feature; currently unused string! Accessibility label for back button to theme chooser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__Choose">
+        <source>Choose</source>
+        <target state="translated"></target>
+        <note from="developer">Pending feature; currently unused string! Back button shown to return back to theme settings from photo picker</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__Choose Theme">
+        <source>Choose Theme</source>
+        <target state="translated"></target>
+        <note from="developer">Pending feature; currently unused string! Accessibility label for settings row to enter theme settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__Default Themes">
+        <source>Default Themes</source>
+        <target state="translated"></target>
+        <note from="developer">Pending feature; currently unused string! Accessibility label for themes subheader</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__My Photos">
+        <source>My Photos</source>
+        <target state="translated"></target>
+        <note from="developer">Pending feature; currently unused string! Accessibility label for photo viewer</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__Photos">
+        <source>Photos</source>
+        <target state="translated">Foto's</target>
+        <note from="developer">Pending feature; currently unused string! Sub header for photo options in theme chooser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__Preview">
+        <source>Preview</source>
+        <target state="translated">Voorskou</target>
+        <note from="developer">Pending feature; currently unused string! Button to show preview of selected theme</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__Preview Theme">
+        <source>Preview Theme</source>
+        <target state="translated"></target>
+        <note from="developer">Pending feature; currently unused string! Accessibility label for theme preview button</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__Set">
+        <source>Set</source>
+        <target state="translated">Stel</target>
+        <note from="developer">Pending feature; currently unused string! Button to set selected theme as current theme</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__Set Theme">
+        <source>Set Theme</source>
+        <target state="translated"></target>
+        <note from="developer">Pending feature; currently unused string! Accessibility label for set theme button</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__Theme">
+        <source>Theme</source>
+        <target state="translated">Tema</target>
+        <note from="developer">Pending feature; currently unused string! Settings row to enter theme settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LightweightThemes.strings__%04__Themes">
+        <source>Themes</source>
+        <target state="translated">Temas</target>
+        <note from="developer">Pending feature; currently unused string! sub header for theme options in theme chooser</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__+">
+        <source>+</source>
+        <target state="translated">+</target>
+        <note from="developer">Button for larger reader font size. Keep this extremely short! This is shown in the reader mode toolbar.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__-">
+        <source>-</source>
+        <target state="translated">-</target>
+        <note from="developer">Button for smaller reader font size. Keep this extremely short! This is shown in the reader mode toolbar.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__A username and password are being requested by %@.">
+        <source>A username and password are being requested by %@.</source>
+        <target state="translated"></target>
+        <note from="developer">Authentication prompt message with no realm. Parameter is the hostname of the site</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__A username and password are being requested by %@. The site says: %@">
+        <source>A username and password are being requested by %1$@. The site says: %2$@</source>
+        <target state="translated"></target>
+        <note from="developer">Authentication prompt message with a realm. First parameter is the hostname. Second is the realm string</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Aa">
+        <source>Aa</source>
+        <target state="translated">Aa</target>
+        <note from="developer">Button for reader mode font size. Keep this extremely short! This is shown in the reader mode toolbar.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__About">
+        <source>About</source>
+        <target state="translated"></target>
+        <note from="developer">About settings section title</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Add Tab">
+        <source>Add Tab</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for the Add Tab button in the Tab Tray.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Add to Reading List">
+        <source>Add to Reading List</source>
+        <target state="translated">Voeg by leeslys</target>
+        <note from="developer">Add URL to the reading list - https://bugzilla.mozilla.org/attachment.cgi?id=8624438, https://bug1157303.bugzilla.mozilla.org/attachment.cgi?id=8624440</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Added page to Reading List">
+        <source>Added page to Reading List</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility message e.g. spoken by VoiceOver after the current page gets added to the Reading List using the Reader View button, e.g. by long-pressing it or by its accessibility custom action.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Address and Search">
+        <source>Address and Search</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for address and search field, both words (Address, Search) are therefore nouns.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Allow Third-Party Keyboards">
+        <source>Allow Third-Party Keyboards</source>
+        <target state="translated"></target>
+        <note from="developer">Setting to enable third-party keyboards</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Always Send">
+        <source>Always Send</source>
+        <target state="translated"></target>
+        <note from="developer">Used as a button label for crash dialog prompt</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Amazon">
+        <source>Amazon</source>
+        <target state="translated">Amazon</target>
+        <note from="developer">Tile title for Amazon</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Authentication required">
+        <source>Authentication required</source>
+        <target state="translated">Stawing vereis</target>
+        <note from="developer">Authentication prompt title</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Back">
+        <source>Back</source>
+        <target state="translated">Terug</target>
+        <note from="developer">Accessibility Label for the browser toolbar Back button</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Block Pop-up Windows">
+        <source>Block Pop-up Windows</source>
+        <target state="translated">Blokkeer opspringers</target>
+        <note from="developer">Block pop-up windows setting</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Bookmark">
+        <source>Bookmark</source>
+        <target state="translated">Boekmerk</target>
+        <note from="developer">Bookmark a URL - https://bugzilla.mozilla.org/attachment.cgi?id=8624438, https://bug1157303.bugzilla.mozilla.org/attachment.cgi?id=8624440</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Bookmarks">
+        <source>Bookmarks</source>
+        <target state="translated">Boekmerke</target>
+        <note from="developer">Panel accessibility label</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Bookmarks you save will show up here.">
+        <source>Bookmarks you save will show up here.</source>
+        <target state="translated"></target>
+        <note from="developer">Status label for the empty Bookmarks state.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Brightness">
+        <source>Brightness</source>
+        <target state="translated">Helderheid</target>
+        <note from="developer">Accessibility label for brightness adjustment slider in Reader Mode display settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Call">
+        <source>Call</source>
+        <target state="translated">Oproep</target>
+        <note from="developer">Alert Call Button</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Cancel">
+        <source>Cancel</source>
+        <target state="translated">Kanselleer</target>
+        <note from="developer">Action Sheet Cancel Button
+   Alert Cancel Button
+   Authentication prompt cancel button
+   Button label to cancel entering a URL or search query
+   Cancel alert view
+   Cancel button
+   Cancel button in the 'log out firefox account' alert
+   Cancel title from search engine picker</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Changes color theme.">
+        <source>Changes color theme.</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility hint for the color theme setting buttons in reader mode display settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Changes font type.">
+        <source>Changes font type.</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility hint for the font type buttons in reader mode display settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Clear Private Data">
+        <source>Clear Private Data</source>
+        <target state="translated"></target>
+        <note from="developer">Label used as an item in Settings. When touched it will open a dialog prompting the user to make sure they want to clear all of their private data.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Close">
+        <source>Close</source>
+        <target state="translated">Sluit</target>
+        <note from="developer">Accessibility label for action denoting closing a tab in tab list (tray)</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Closing tab">
+        <source>Closing tab</source>
+        <target state="translated"></target>
+        <note from="developer">No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Copy Address">
+        <source>Copy Address</source>
+        <target state="translated"></target>
+        <note from="developer">Copy the URL from the location bar</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Copy Image">
+        <source>Copy Image</source>
+        <target state="translated"></target>
+        <note from="developer">Context menu item for copying an image to the clipboard</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Copy Link">
+        <source>Copy Link</source>
+        <target state="translated"></target>
+        <note from="developer">Context menu item for copying a link URL to the clipboard</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Could not add page to Reading List. Maybe it's already there?">
+        <source>Could not add page to Reading List. Maybe it's already there?</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility message e.g. spoken by VoiceOver after the user wanted to add current page to the Reading List and this was not done, likely because it already was in the Reading List, but perhaps also because of real failures.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Could not add page to Reading list">
+        <source>Could not add page to Reading list</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility message e.g. spoken by VoiceOver after adding current webpage to the Reading List failed.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Could not load page.">
+        <source>Could not load page.</source>
+        <target state="translated"></target>
+        <note from="developer">Error message that is shown in settings when there was a problem loading</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Create an account">
+        <source>Create an account</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1Qtkf0j</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Dark">
+        <source>Dark</source>
+        <target state="translated"></target>
+        <note from="developer">Dark theme setting in Reading View settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Debug: forget Sync auth state">
+        <source>Debug: forget Sync auth state</source>
+        <target state="translated"></target>
+        <note from="developer">Debug option</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Debug: require password">
+        <source>Debug: require password</source>
+        <target state="translated"></target>
+        <note from="developer">Debug option</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Debug: require upgrade">
+        <source>Debug: require upgrade</source>
+        <target state="translated"></target>
+        <note from="developer">Debug option</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Decrease text size">
+        <source>Decrease text size</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for button decreasing font size in display settings of reader mode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Default Search Engine">
+        <source>Default Search Engine</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for default search engine setting.
+   Title for default search engine picker.
+   Title for default search engine settings section.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Disable additional page dialogs">
+        <source>Disable additional page dialogs</source>
+        <target state="translated"></target>
+        <note from="developer">Pending feature; currently unused string! Checkbox label shown after multiple alerts are shown</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Display Settings">
+        <source>Display Settings</source>
+        <target state="translated"></target>
+        <note from="developer">Name for display settings button in reader mode. Display in the meaning of presentation, not monitor.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Do you want to save the password for %@ on %@?">
+        <source>Do you want to save the password for %1$@ on %2$@?</source>
+        <target state="translated"></target>
+        <note from="developer">Prompt for saving a password. The first parameter is the username being saved. The second parameter is the hostname of the site.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Do you want to save the password on %@?">
+        <source>Do you want to save the password on %@?</source>
+        <target state="translated"></target>
+        <note from="developer">Prompt for saving a password with no username. The parameter is the hostname of the site.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Do you want to update the password for %@ on %@?">
+        <source>Do you want to update the password for %1$@ on %2$@?</source>
+        <target state="translated"></target>
+        <note from="developer">Prompt for updating a password. The first parameter is the username being saved. The second parameter is the hostname of the site.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Do you want to update the password on %@?">
+        <source>Do you want to update the password on %@?</source>
+        <target state="translated"></target>
+        <note from="developer">Prompt for updating a password with on username. The parameter is the hostname of the site.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Don't Send">
+        <source>Don't Send</source>
+        <target state="translated"></target>
+        <note from="developer">Used as a button label for crash dialog prompt</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Done">
+        <source>Done</source>
+        <target state="translated"></target>
+        <note from="developer">Done button label for search settings table
+   Done button label on back forward list screen
+   Done button on left side of the Settings view controller title bar
+   Done editing button</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Double tap and hold to open history">
+        <source>Double tap and hold to open history</source>
+        <target state="translated"></target>
+        <note from="developer">No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Enter your password to connect.">
+        <source>Enter your password to connect.</source>
+        <target state="translated"></target>
+        <note from="developer">Text message in the settings table view</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__ErrorPages.Advanced.Button">
+        <source>Advanced</source>
+        <target state="translated"></target>
+        <note from="developer">Label for button to perform advanced actions on the error page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__ErrorPages.AdvancedWarning1.Text">
+        <source>Warning: we can't confirm your connection to this website is secure.</source>
+        <target state="translated"></target>
+        <note from="developer">Warning text when clicking the Advanced button on error pages</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__ErrorPages.AdvancedWarning2.Text">
+        <source>It may be a misconfiguration or tampering by an attacker. Proceed if you accept the potential risk.</source>
+        <target state="translated"></target>
+        <note from="developer">Additional warning text when clicking the Advanced button on error pages</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__ErrorPages.CertWarning.Description">
+        <source>The owner of %@ has configured their website improperly. To protect your information from being stolen, Firefox has not connected to this website.</source>
+        <target state="translated"></target>
+        <note from="developer">Warning text on the certificate error page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__ErrorPages.CertWarning.Title">
+        <source>Your connection is not private</source>
+        <target state="translated"></target>
+        <note from="developer">Title on the certificate error page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__ErrorPages.GoBack.Button">
+        <source>Go Back</source>
+        <target state="translated"></target>
+        <note from="developer">Label for button to go back from the error page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__ErrorPages.VisitOnce.Button">
+        <source>Visit site anyway</source>
+        <target state="translated"></target>
+        <note from="developer">Button label to temporarily continue to the site from the certificate error page</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Facebook">
+        <source>Facebook</source>
+        <target state="translated"></target>
+        <note from="developer">Tile title for Facebook</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Firefox needs to reopen for this change to take effect.">
+        <source>Firefox needs to reopen for this change to take effect.</source>
+        <target state="translated"></target>
+        <note from="developer">Setting value prop to enable third-party keyboards</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.">
+        <source>Firefox will stop syncing with your account, but won’t delete any of your browsing data on this device.</source>
+        <target state="translated"></target>
+        <note from="developer">Text of the 'log out firefox account' alert</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Firefox would like to access your Photos">
+        <source>Firefox would like to access your Photos</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1G7uHo7</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Forward">
+        <source>Forward</source>
+        <target state="translated">Vorentoe</target>
+        <note from="developer">Accessibility Label for the browser toolbar Forward button</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__General">
+        <source>General</source>
+        <target state="translated">Algemeen</target>
+        <note from="developer">General settings section title</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Get your open tabs, bookmarks, and passwords from your other devices.">
+        <source>Get your open tabs, bookmarks, and passwords from your other devices.</source>
+        <target state="translated"></target>
+        <note from="developer">A re-worded offer about Sync that emphasizes one-way data transfer, not syncing.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Go">
+        <source>Go</source>
+        <target state="translated">Gaan</target>
+        <note from="developer">Pending feature; currently unused string! Button to browse to URL on the clipboard when browser is opened</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Go to copied URL?">
+        <source>Go to copied URL?</source>
+        <target state="translated"></target>
+        <note from="developer">Pending feature; currently unused string! Prompt message shown when browser is opened with URL on the clipboard</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Help">
+        <source>Help</source>
+        <target state="translated">Hulp</target>
+        <note from="developer">Show the SUMO support page from the Support section in the settings. see http://mzl.la/1dmM8tZ</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__History">
+        <source>History</source>
+        <target state="translated">Geskiedenis</target>
+        <note from="developer">Panel accessibility label</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Increase text size">
+        <source>Increase text size</source>
+        <target state="translated">Vermeerder teksgrootte</target>
+        <note from="developer">Accessibility label for button increasing font size in display settings of reader mode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Intro Tour Carousel">
+        <source>Intro Tour Carousel</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for the introduction tour carousel</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Last month">
+        <source>Last month</source>
+        <target state="translated"></target>
+        <note from="developer">History tableview section header</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Last synced: %@">
+        <source>Last synced: %@</source>
+        <target state="translated"></target>
+        <note from="developer">Remote tabs last synced time. Argument is the relative date string.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Last week">
+        <source>Last week</source>
+        <target state="translated"></target>
+        <note from="developer">History tableview section header</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Licenses">
+        <source>Licenses</source>
+        <target state="translated">Lisensies</target>
+        <note from="developer">Settings item that opens a tab containing the licenses. See http://mzl.la/1NSAWCG</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Light">
+        <source>Light</source>
+        <target state="translated">Lig</target>
+        <note from="developer">Light theme setting in Reading View settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Load original page">
+        <source>Load original page</source>
+        <target state="translated"></target>
+        <note from="developer">Link for going to the non-reader page when the reader view could not be loaded. This message will appear only when sharing to Firefox reader mode from another app.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Loading content…">
+        <source>Loading content…</source>
+        <target state="translated"></target>
+        <note from="developer">Message displayed when the reader mode page is loading. This message will appear only when sharing to Firefox reader mode from another app.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Log Out">
+        <source>Log Out</source>
+        <target state="translated">Afmeld</target>
+        <note from="developer">Button in settings screen to disconnect from your account
+   Disconnect button in the 'log out firefox account' alert</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Log Out?">
+        <source>Log Out?</source>
+        <target state="translated">Afmeld?</target>
+        <note from="developer">Title of the 'log out firefox account' alert</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Log in">
+        <source>Log in</source>
+        <target state="translated">Aanmeld</target>
+        <note from="developer">Authentication prompt log in button</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Logins">
+        <source>Logins</source>
+        <target state="translated">Aanmeldings</target>
+        <note from="developer">Label used as an item in Settings. When touched, the user will be navigated to the Logins/Password manager.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__LoginsHelper.DontSave.Button">
+        <source>Don’t Save</source>
+        <target state="translated"></target>
+        <note from="developer">Button to not save the user's password</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__LoginsHelper.PromptSaveLogin.Title">
+        <source>Save login %1$@ for %2$@?</source>
+        <target state="translated"></target>
+        <note from="developer">Prompt for saving a password. The first parameter is the username being saved. The second parameter is the hostname of the site.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__LoginsHelper.PromptSavePassword.Title">
+        <source>Save password for %@?</source>
+        <target state="translated"></target>
+        <note from="developer">Prompt for saving a password with no username. The parameter is the hostname of the site.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__LoginsHelper.PromptUpdateLogin.Title">
+        <source>Update login for %1$@ on %2$@?</source>
+        <target state="translated"></target>
+        <note from="developer">Prompt for updating a login. The first parameter is the username being saved. The second parameter is the hostname of the site.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__LoginsHelper.PromptUpdatePassword.Title">
+        <source>Update password for %@?</source>
+        <target state="translated"></target>
+        <note from="developer">Prompt for updating a password with on username. The parameter is the hostname of the site.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__LoginsHelper.SaveLogin.Button">
+        <source>Save Login</source>
+        <target state="translated"></target>
+        <note from="developer">Button to save the user's password</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__LoginsHelper.Update.Button">
+        <source>Update</source>
+        <target state="translated"></target>
+        <note from="developer">Button to update the user's password</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Looks like Firefox crashed previously. Would you like to restore your tabs?">
+        <source>Looks like Firefox crashed previously. Would you like to restore your tabs?</source>
+        <target state="translated"></target>
+        <note from="developer">Restore Tabs Prompt Description</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Mark as Read">
+        <source>Mark as Read</source>
+        <target state="translated">Merk as gelees</target>
+        <note from="developer">Name for Mark as read button in reader mode
+   Title for the button that marks a reading list item as read</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Mark as Unread">
+        <source>Mark as Unread</source>
+        <target state="translated">Merk as ongelees</target>
+        <note from="developer">Name for Mark as unread button in reader mode
+   Title for the button that marks a reading list item as unread</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Missing error">
+        <source>Missing error</source>
+        <target state="translated"></target>
+        <note from="developer">Error for a missing remote error number</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Missing message">
+        <source>Missing message</source>
+        <target state="translated"></target>
+        <note from="developer">Error for a missing remote error message</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Navigation Toolbar">
+        <source>Navigation Toolbar</source>
+        <target state="translated">Navigasienutsbalk</target>
+        <note from="developer">Accessibility label for the navigation toolbar displayed at the bottom of the screen.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__New tab: %@: %@">
+        <source>New tab: %1$@: %2$@</source>
+        <target state="translated">Nuwe oortjie: %1$@: %2$@</target>
+        <note from="developer">New tab [title] [url]</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__New version available">
+        <source>New version available</source>
+        <target state="translated">Nuwe weergawe beskikbaar</target>
+        <note from="developer">Prompt title for application update</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__No">
+        <source>No</source>
+        <target state="translated">Nee</target>
+        <note from="developer">Restore Tabs Negative Action</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__No tabs">
+        <source>No tabs</source>
+        <target state="translated">Geen oortjies</target>
+        <note from="developer">Message spoken by VoiceOver to indicate that there are no tabs in the Tabs Tray</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Not Now">
+        <source>Not Now</source>
+        <target state="translated"></target>
+        <note from="developer">Label for button to cancel application update prompt</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Not now">
+        <source>Not now</source>
+        <target state="translated"></target>
+        <note from="developer">Button to not save the user's password</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__OK">
+        <source>OK</source>
+        <target state="translated"></target>
+        <note from="developer">Label for OK button in the application update prompt
+   OK button</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Okay">
+        <source>Okay</source>
+        <target state="translated"></target>
+        <note from="developer">Restore Tabs Affirmative Action</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Oops! Firefox crashed">
+        <source>Oops! Firefox crashed</source>
+        <target state="translated"></target>
+        <note from="developer">Title for prompt displayed to user after the app crashes</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Open In New Tab">
+        <source>Open In New Tab</source>
+        <target state="translated">Open in nuwe &amp;oortjie</target>
+        <note from="developer">Context menu item for opening a link in a new tab</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Open Settings">
+        <source>Open Settings</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1G7uHo7</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Open articles in Reader View by tapping the book icon when it appears in the title bar.">
+        <source>Open articles in Reader View by tapping the book icon when it appears in the title bar.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1LXbDOL</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Open in…">
+        <source>Open in…</source>
+        <target state="translated">Open in…</target>
+        <note from="developer">String indicating that the file can be opened in another application on the device</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Opening %@">
+        <source>Opening %@</source>
+        <target state="translated"></target>
+        <note from="developer">Opening an external URL</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Pages you have visited recently will show up here.">
+        <source>Pages you have visited recently will show up here.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://bit.ly/1I7Do4b</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Panel Chooser">
+        <source>Panel Chooser</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for the Home panel's top toolbar containing list of the home panels (top sites, bookmarsk, history, remote tabs, reading list).</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Password">
+        <source>Password</source>
+        <target state="translated">Wagwoord</target>
+        <note from="developer">Password textbox in Authentication prompt</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Paste">
+        <source>Paste</source>
+        <target state="translated">Plak</target>
+        <note from="developer">Paste the URL into the location bar</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Paste &amp; Go">
+        <source>Paste &amp; Go</source>
+        <target state="translated">Plak en gaan</target>
+        <note from="developer">Paste the URL into the location bar and visit</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Privacy">
+        <source>Privacy</source>
+        <target state="translated">Privaatheid</target>
+        <note from="developer">Privacy section title</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Privacy Policy">
+        <source>Privacy Policy</source>
+        <target state="translated">Privaatheidbeleid</target>
+        <note from="developer">Show Firefox Browser Privacy Policy page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Quick-search Engines">
+        <source>Quick-search Engines</source>
+        <target state="translated"></target>
+        <note from="developer">Title for quick-search engines settings section.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="Client/Localizable.strings__%04__Reader View">
+        <source>Reader View</source>
+        <target>Leesaansig</target>
+        <note from="developer">Accessibility label for the Reader View button</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Reading list">
+        <source>Reading list</source>
+        <target state="translated">Leeslys</target>
+        <note from="developer">Panel accessibility label</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Reload">
+        <source>Reload</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility Label for the browser toolbar Reload button</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="Client/Localizable.strings__%04__Remove">
+        <source>Remove</source>
+        <target>Verwyder</target>
+        <note from="developer">Title for the button that removes a reading list item</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="Client/Localizable.strings__%04__Remove from Reading List">
+        <source>Remove from Reading List</source>
+        <target>Verwyder uit die leeslys</target>
+        <note from="developer">Name for button removing current article from reading list in reader mode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Remove page">
+        <source>Remove page</source>
+        <target state="translated"></target>
+        <note from="developer">Button shown in editing mode to remove this site from the top sites panel.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Request Desktop Site">
+        <source>Request Desktop Site</source>
+        <target state="translated"></target>
+        <note from="developer">Action Sheet Button for Requesting the Desktop Site
+   Share action title</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Request Mobile Site">
+        <source>Request Mobile Site</source>
+        <target state="translated"></target>
+        <note from="developer">Action Sheet Button for Requesting the Mobile Site
+   Share action title</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Sans-serif">
+        <source>Sans-serif</source>
+        <target state="translated">Sans-serif</target>
+        <note from="developer">Font type setting in the reading view settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="Client/Localizable.strings__%04__Save Image">
+        <source>Save Image</source>
+        <target>Stoor beeld</target>
+        <note from="developer">Context menu item for saving an image</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Save Logins">
+        <source>Save Logins</source>
+        <target state="translated"></target>
+        <note from="developer">Setting to enable the built-in password manager</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Save pages to your Reading List by tapping the book plus icon in the Reader View controls.">
+        <source>Save pages to your Reading List by tapping the book plus icon in the Reader View controls.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1LXbDOL</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="Client/Localizable.strings__%04__Search">
+        <source>Search</source>
+        <target>Soek</target>
+        <note from="developer">Navigation title for search settings.
+   Open search section of settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="Client/Localizable.strings__%04__Search or enter address">
+        <source>Search or enter address</source>
+        <target>Soek of tik adres</target>
+        <note from="developer">The text shown in the URL bar on about:home</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Searches for the suggestion">
+        <source>Searches for the suggestion</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility hint describing the action performed when a search suggestion is clicked</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="Client/Localizable.strings__%04__Secure connection">
+        <source>Secure connection</source>
+        <target>Beveiligde verbinding</target>
+        <note from="developer">Accessibility label for the lock icon, which is only present if the connection is secure</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Send Crash Reports">
+        <source>Send Crash Reports</source>
+        <target state="translated"></target>
+        <note from="developer">Setting to enable the sending of crash reports</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Send Feedback">
+        <source>Send Feedback</source>
+        <target state="translated"></target>
+        <note from="developer">Show an input.mozilla.org page where people can submit feedback</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Send Report">
+        <source>Send Report</source>
+        <target state="translated"></target>
+        <note from="developer">Used as a button label for crash dialog prompt</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Send a crash report so Mozilla can fix the problem?">
+        <source>Send a crash report so Mozilla can fix the problem?</source>
+        <target state="translated"></target>
+        <note from="developer">Message displayed in the crash dialog above the buttons used to select when sending reports</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__SendTo.Cancel.Button">
+        <source>Cancel</source>
+        <target state="translated"></target>
+        <note from="developer">Button title for cancelling SendTo screen</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Sepia">
+        <source>Sepia</source>
+        <target state="translated">Sepia</target>
+        <note from="developer">Sepia theme setting in Reading View settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Serif">
+        <source>Serif</source>
+        <target state="translated">Serif</target>
+        <note from="developer">Font type setting in the reading view settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="Client/Localizable.strings__%04__Settings">
+        <source>Settings</source>
+        <target>Opstelling</target>
+        <note from="developer">Accessibility label for the Settings button in the Tab Tray.
+   Settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Settings.ClearPrivateData.Clear.Button">
+        <source>Clear Private Data</source>
+        <target state="translated"></target>
+        <note from="developer">Button in settings that clears private data for the selected items.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Settings.ClearPrivateData.SectionName">
+        <source>Clear Private Data</source>
+        <target state="translated"></target>
+        <note from="developer">Label used as an item in Settings. When touched it will open a dialog prompting the user to make sure they want to clear all of their private data.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Settings.ClearPrivateData.Title">
+        <source>Clear Private Data</source>
+        <target state="translated"></target>
+        <note from="developer">Title displayed in header of the setting panel.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="Client/Localizable.strings__%04__Share">
+        <source>Share</source>
+        <target>Deel</target>
+        <note from="developer">Accessibility Label for the browser toolbar Share button</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Share Link">
+        <source>Share Link</source>
+        <target state="translated"></target>
+        <note from="developer">Context menu item for sharing a link URL</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__ShareTo.Cancel.Button">
+        <source>Cancel</source>
+        <target state="translated"></target>
+        <note from="developer">Button title for cancelling Share screen</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Show Search Suggestions">
+        <source>Show Search Suggestions</source>
+        <target state="translated"></target>
+        <note from="developer">Label for show search suggestions setting.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="Client/Localizable.strings__%04__Show Tabs">
+        <source>Show Tabs</source>
+        <target>Vertoon oortjies</target>
+        <note from="developer">Accessibility label for the tabs button in the (top) browser toolbar
+   Accessibility Label for the tabs button in the browser toolbar</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Show Tour">
+        <source>Show Tour</source>
+        <target state="translated"></target>
+        <note from="developer">Show the on-boarding screen again from the settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Show search suggestions">
+        <source>Show search suggestions</source>
+        <target state="translated"></target>
+        <note from="developer">Label for show search suggestions setting.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Sign In to Firefox">
+        <source>Sign In to Firefox</source>
+        <target state="translated"></target>
+        <note from="developer">Text message / button in the settings table view</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="Client/Localizable.strings__%04__Sign in">
+        <source>Sign in</source>
+        <target>Meld aan</target>
+        <note from="developer">See http://mzl.la/1Qtkf0j
+   Text message / button in the settings table view</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Sign in to get your tabs, bookmarks, and passwords from your other devices.">
+        <source>Sign in to get your tabs, bookmarks, and passwords from your other devices.</source>
+        <target state="translated"></target>
+        <note from="developer">Clarify value prop under Sign In to Firefox in Settings.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Stop">
+        <source>Stop</source>
+        <target state="translated">Stop</target>
+        <note from="developer">Accessibility Label for the browser toolbar Stop button</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Support">
+        <source>Support</source>
+        <target state="translated">Ondersteuning</target>
+        <note from="developer">Support section title</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Swipe right or left with three fingers to close the tab.">
+        <source>Swipe right or left with three fingers to close the tab.</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility hint for tab tray's displayed tab.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Sync Now">
+        <source>Sync Now</source>
+        <target state="translated"></target>
+        <note from="developer">Sync Firefox Account</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Sync your tabs, bookmarks, passwords and more.">
+        <source>Sync your tabs, bookmarks, passwords and more.</source>
+        <target state="translated"></target>
+        <note from="developer">Sync tabs, bookmarks, passwords empty state instructions.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Sync your tabs, passwords and more.">
+        <source>Sync your tabs, passwords and more.</source>
+        <target state="translated"></target>
+        <note from="developer">Sync tabs and passwords empty state instructions.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Synced tabs">
+        <source>Synced tabs</source>
+        <target state="translated"></target>
+        <note from="developer">Panel accessibility label</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Syncing…">
+        <source>Syncing…</source>
+        <target state="translated"></target>
+        <note from="developer">Syncing Firefox Account</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Tab %@ of %@">
+        <source>Tab %1$@ of %2$@</source>
+        <target state="translated"></target>
+        <note from="developer">Message spoken by VoiceOver saying the position of the single currently visible tab in Tabs Tray, along with the total number of tabs. E.g. \"Tab 2 of 5\" says that tab 2 is visible (and is the only visible tab), out of 5 tabs total.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Tabs %@ to %@ of %@">
+        <source>Tabs %1$@ to %2$@ of %3$@</source>
+        <target state="translated"></target>
+        <note from="developer">Message spoken by VoiceOver saying the range of tabs that are currently visible in Tabs Tray, along with the total number of tabs. E.g. \"Tabs 8 to 10 of 15\" says tabs 8, 9 and 10 are visible, out of 15 tabs total.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Tabs Tray">
+        <source>Tabs Tray</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for the Tabs Tray view.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__The page could not be displayed in Reader View.">
+        <source>The page could not be displayed in Reader View.</source>
+        <target state="translated"></target>
+        <note from="developer">Message displayed when the reader mode page could not be loaded. This message will appear only when sharing to Firefox reader mode from another app.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__There is a new version available of Firefox Aurora. Tap OK to go to the download page.">
+        <source>There is a new version available of Firefox Aurora. Tap OK to go to the download page.</source>
+        <target state="translated"></target>
+        <note from="developer">Prompt message for application update</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__There was a problem accessing tabs from your other devices. Try again in a few moments.">
+        <source>There was a problem accessing tabs from your other devices. Try again in a few moments.</source>
+        <target state="translated"></target>
+        <note from="developer">Error message in the remote tabs panel</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__There was an error converting the page">
+        <source>There was an error converting the page</source>
+        <target state="translated"></target>
+        <note from="developer">Error displayed when reader mode cannot be enabled</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__This allows you to save the image to your Camera Roll.">
+        <source>This allows you to save the image to your Camera Roll.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1G7uHo7</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__This will open in another application">
+        <source>This will open in another application</source>
+        <target state="translated"></target>
+        <note from="developer">Opening an external app</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Today">
+        <source>Today</source>
+        <target state="translated"></target>
+        <note from="developer">History tableview section header</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Top sites">
+        <source>Top sites</source>
+        <target state="translated"></target>
+        <note from="developer">Panel accessibility label</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__TopSites.EmptyState.Description">
+        <source>Your most visited sites will show up here.</source>
+        <target state="translated"></target>
+        <note from="developer">Description label for the empty Top Sites state.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__TopSites.EmptyState.Title">
+        <source>Welcome to Top Sites</source>
+        <target state="translated"></target>
+        <note from="developer">The title for the empty Top Sites state</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Twitter">
+        <source>Twitter</source>
+        <target state="translated"></target>
+        <note from="developer">Tile title for Twitter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Update">
+        <source>Update</source>
+        <target state="translated"></target>
+        <note from="developer">Button to update the user's password</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Upgrade Firefox to connect.">
+        <source>Upgrade Firefox to connect.</source>
+        <target state="translated"></target>
+        <note from="developer">Text message in the settings table view</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Use Compact Tabs">
+        <source>Use Compact Tabs</source>
+        <target state="translated"></target>
+        <note from="developer">Setting to enable compact tabs in the tab overview</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Username">
+        <source>Username</source>
+        <target state="translated"></target>
+        <note from="developer">Username textbox in Authentication prompt</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Verify your email address.">
+        <source>Verify your email address.</source>
+        <target state="translated"></target>
+        <note from="developer">Text message in the settings table view</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Version %@ (%@)">
+        <source>Version %1$@ (%2$@)</source>
+        <target state="translated"></target>
+        <note from="developer">Version number of Firefox shown in settings</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__View">
+        <source>View</source>
+        <target state="translated">Bekyk</target>
+        <note from="developer">View a URL - https://bugzilla.mozilla.org/attachment.cgi?id=8624438, https://bug1157303.bugzilla.mozilla.org/attachment.cgi?id=8624440</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Web content">
+        <source>Web content</source>
+        <target state="translated">Webinhoud</target>
+        <note from="developer">Accessibility label for the main web content view</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Welcome to Sync">
+        <source>Welcome to Sync</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1Qtkf0j</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Welcome to your Reading List">
+        <source>Welcome to your Reading List</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1LXbDOL</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Well, this is embarrassing.">
+        <source>Well, this is embarrassing.</source>
+        <target state="translated">Wel, dis nou 'n verleentheid.</target>
+        <note from="developer">Restore Tabs Prompt Title</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Wikipedia">
+        <source>Wikipedia</source>
+        <target state="translated">Wikipedia</target>
+        <note from="developer">Tile title for Wikipedia</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Yes">
+        <source>Yes</source>
+        <target state="translated">Ja</target>
+        <note from="developer">Button to save the user's password</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Yesterday">
+        <source>Yesterday</source>
+        <target state="translated">Gister</target>
+        <note from="developer">History tableview section header</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__You don't have any other devices connected to this Firefox Account available to sync.">
+        <source>You don't have any other devices connected to this Firefox Account available to sync.</source>
+        <target state="translated"></target>
+        <note from="developer">Error message in the remote tabs panel</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__You don't have any tabs open in Firefox on your other devices.">
+        <source>You don't have any tabs open in Firefox on your other devices.</source>
+        <target state="translated"></target>
+        <note from="developer">Error message in the remote tabs panel</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__YouTube">
+        <source>YouTube</source>
+        <target state="translated">YouTube</target>
+        <note from="developer">Tile title for YouTube</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__Your Rights">
+        <source>Your Rights</source>
+        <target state="translated"></target>
+        <note from="developer">Your Rights settings section title</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__computer">
+        <source>computer</source>
+        <target state="translated">rekenaar</target>
+        <note from="developer">Accessibility label for Desktop Computer (PC) image in remote tabs list</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__just now">
+        <source>just now</source>
+        <target state="translated">so pas</target>
+        <note from="developer">Relative time for a tab that was visited within the last few moments.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__mobile device">
+        <source>mobile device</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for Mobile Device image in remote tabs list</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__more than a month ago">
+        <source>more than a month ago</source>
+        <target state="translated"></target>
+        <note from="developer">Relative date for dates older than a month and less than two months.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__more than a week ago">
+        <source>more than a week ago</source>
+        <target state="translated"></target>
+        <note from="developer">Description for a date more than a week ago, but less than a month ago.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__read">
+        <source>read</source>
+        <target state="translated">lees</target>
+        <note from="developer">Accessibility label for read article in reading list. It's a past participle - functions as an adjective.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="Client/Localizable.strings__%04__this week">
+        <source>this week</source>
+        <target>hierdie week</target>
+        <note from="developer">Relative date for date in past week.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__today at %@">
+        <source>today at %@</source>
+        <target state="translated"></target>
+        <note from="developer">Relative date for date older than a minute.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__unread">
+        <source>unread</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for unread article in reading list. It's a past participle - functions as an adjective.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Localizable.strings__%04__yesterday">
+        <source>yesterday</source>
+        <target state="translated">gister</target>
+        <note from="developer">Relative date for yesterday.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Are you sure?">
+        <source>Are you sure?</source>
+        <target state="translated">Is u seker?</target>
+        <note from="developer">Prompt title when deleting logins</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Cancel">
+        <source>Cancel</source>
+        <target state="translated">Kanselleer</target>
+        <note from="developer">Prompt option for cancelling out of deletion</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Clear Search">
+        <source>Clear Search</source>
+        <target state="translated">Wis soektog</target>
+        <note from="developer">Accessibility message e.g. spoken by VoiceOver after the user taps the close button in the search field to clear the search and exit search mode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Copy">
+        <source>Copy</source>
+        <target state="translated">Kopieer</target>
+        <note from="developer">Copy password text selection menu item</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Delete">
+        <source>Delete</source>
+        <target state="translated">Verwyder</target>
+        <note from="developer">Button in login detail screen that deletes the current login</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Deselect All">
+        <source>Deselect All</source>
+        <target state="translated">Ontkies almal</target>
+        <note from="developer">Title for deselecting all selected logins</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Enter Search Mode">
+        <source>Enter Search Mode</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for entering search mode for logins</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Hide">
+        <source>Hide</source>
+        <target state="translated">Versteek</target>
+        <note from="developer">Hide password text selection menu item</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Last modified %@">
+        <source>Last modified %@</source>
+        <target state="translated"></target>
+        <note from="developer">Footer label describing when the login was last modified with the timestamp as the parameter</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Logins">
+        <source>Logins</source>
+        <target state="translated">Aanmeldings</target>
+        <note from="developer">Title for Logins List View screen</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Logins will be permanently removed.">
+        <source>Logins will be permanently removed.</source>
+        <target state="translated"></target>
+        <note from="developer">Prompt message warning the user that deleting non-synced logins will permanently remove them</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Logins will be removed from all connected devices.">
+        <source>Logins will be removed from all connected devices.</source>
+        <target state="translated"></target>
+        <note from="developer">Prompt message warning the user that deleted logins will remove logins from all connected devices</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__No logins found">
+        <source>No logins found</source>
+        <target state="translated"></target>
+        <note from="developer">Title displayed when no logins are found after searching</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Open &amp; Fill">
+        <source>Open &amp; Fill</source>
+        <target state="translated"></target>
+        <note from="developer">Open and Fill website text selection menu item</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Reveal">
+        <source>Reveal</source>
+        <target state="translated"></target>
+        <note from="developer">Reveal password text selection menu item</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Search">
+        <source>Search</source>
+        <target state="translated">Soek</target>
+        <note from="developer">Title for the search field at the top of the Logins list screen</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Search Input Field">
+        <source>Search Input Field</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for the search input field in the Logins list</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__Select All">
+        <source>Select All</source>
+        <target state="translated">Kies almal</target>
+        <note from="developer">Title for selecting all logins</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__password">
+        <source>password</source>
+        <target state="translated">wagwoord</target>
+        <note from="developer">Title for password row in Login Detail View</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__username">
+        <source>username</source>
+        <target state="translated">gebruikernaam</target>
+        <note from="developer">Title for username row in Login Detail View</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/LoginManager.strings__%04__website">
+        <source>website</source>
+        <target state="translated">webwerf</target>
+        <note from="developer">Title for website row in Login Detail View</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/PrivateBrowsing.strings__%04__Close Private Tabs">
+        <source>Close Private Tabs</source>
+        <target state="translated"></target>
+        <note from="developer">Setting for closing private tabs</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/PrivateBrowsing.strings__%04__Firefox won't remember any of your history or cookies, but new bookmarks will be saved.">
+        <source>Firefox won't remember any of your history or cookies, but new bookmarks will be saved.</source>
+        <target state="translated"></target>
+        <note from="developer">Description text displayed when there are no open tabs while in private mode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/PrivateBrowsing.strings__%04__Learn More">
+        <source>Learn More</source>
+        <target state="translated"></target>
+        <note from="developer">Text button displayed when there are no tabs open while in private mode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/PrivateBrowsing.strings__%04__Off">
+        <source>Off</source>
+        <target state="translated">Af</target>
+        <note from="developer">Toggled OFF accessibility value</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/PrivateBrowsing.strings__%04__On">
+        <source>On</source>
+        <target state="translated">Aan</target>
+        <note from="developer">Toggled ON accessibility value</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/PrivateBrowsing.strings__%04__Open In New Private Tab">
+        <source>Open In New Private Tab</source>
+        <target state="translated"></target>
+        <note from="developer">Context menu option for opening a link in a new private tab</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/PrivateBrowsing.strings__%04__Private Browsing">
+        <source>Private Browsing</source>
+        <target state="translated">Private-blaai</target>
+        <note from="developer">Title displayed for when there are no open tabs while in private mode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/PrivateBrowsing.strings__%04__Private Mode">
+        <source>Private Mode</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for toggling on/off private mode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/PrivateBrowsing.strings__%04__Turns private mode on or off">
+        <source>Turns private mode on or off</source>
+        <target state="translated"></target>
+        <note from="developer">Accessiblity hint for toggling on/off private mode</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/PrivateBrowsing.strings__%04__When Leaving Private Browsing">
+        <source>When Leaving Private Browsing</source>
+        <target state="translated"></target>
+        <note from="developer">Will be displayed in Settings under 'Close Private Tabs'</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Search.strings__%04__%@ search">
+        <source>%@ search</source>
+        <target state="translated"></target>
+        <note from="developer">Label for search engine buttons. The argument corresponds to the name of the search engine.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Search.strings__%04__No">
+        <source>No</source>
+        <target state="translated">Nee</target>
+        <note from="developer">For search suggestions prompt. This string should be short so it fits nicely on the prompt row.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Search.strings__%04__Search Settings">
+        <source>Search Settings</source>
+        <target state="translated"></target>
+        <note from="developer">Label for search settings button.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Search.strings__%04__Search suggestions from %@">
+        <source>Search suggestions from %@</source>
+        <target state="translated"></target>
+        <note from="developer">Accessibility label for image of default search engine displayed left to the actual search suggestions from the engine. The parameter substituted for \"%@\" is the name of the search engine. E.g.: Search suggestions from Google</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Search.strings__%04__Turn on search suggestions?">
+        <source>Turn on search suggestions?</source>
+        <target state="translated"></target>
+        <note from="developer">Prompt shown before enabling provider search queries</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/Search.strings__%04__Yes">
+        <source>Yes</source>
+        <target state="translated">Ja</target>
+        <note from="developer">For search suggestions prompt. This string should be short so it fits nicely on the prompt row.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/SendAnonymousUsageData.strings__%04__More Info…">
+        <source>More Info…</source>
+        <target state="translated">Meer inligting…</target>
+        <note from="developer">See http://bit.ly/1SmEXU1</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/SendAnonymousUsageData.strings__%04__Send Anonymous Usage Data">
+        <source>Send Anonymous Usage Data</source>
+        <target state="translated"></target>
+        <note from="developer">See http://bit.ly/1SmEXU1</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/SendTo.strings__%04__Available devices:">
+        <source>Available devices:</source>
+        <target state="translated"></target>
+        <note from="developer">Header for the list of devices table</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/SendTo.strings__%04__Close">
+        <source>Close</source>
+        <target state="translated">Sluit</target>
+        <note from="developer">Close button in top navigation bar</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/SendTo.strings__%04__Please open Firefox, go to Settings and sign in to continue.">
+        <source>Please open Firefox, go to Settings and sign in to continue.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1ISlXnU</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/SendTo.strings__%04__Send">
+        <source>Send</source>
+        <target state="translated">Stuur</target>
+        <note from="developer">Navigation bar button to Send the current page to a device</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/SendTo.strings__%04__Send Tab">
+        <source>Send Tab</source>
+        <target state="translated">Stuur oortjie</target>
+        <note from="developer">Title of the dialog that allows you to send a tab to a different device</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/SendTo.strings__%04__You are not signed in to your Firefox Account.">
+        <source>You are not signed in to your Firefox Account.</source>
+        <target state="translated"></target>
+        <note from="developer">See http://mzl.la/1ISlXnU</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Client/SendTo.strings__%04__You don't have any other devices connected to this Firefox Account available to sync.">
+        <source>You don't have any other devices connected to this Firefox Account available to sync.</source>
+        <target state="translated"></target>
+        <note from="developer">Error message shown in the remote tabs panel</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ClientTests/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ClientTests/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated">4.0.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/SendTo/Info.plist__%04__CFBundleDisplayName">
+        <source>Send Tab</source>
+        <target state="translated">Stuur oortjie</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/SendTo/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/SendTo/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated">4.0.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/ShareTo/Info.plist__%04__CFBundleDisplayName">
+        <source>$(MOZ_BUNDLE_DISPLAY_NAME)</source>
+        <target state="translated">$(MOZ_BUNDLE_DISPLAY_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/ShareTo/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/ShareTo/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated">4.0.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/ShareTo/ShareTo.strings__%04__Add">
+        <source>Add</source>
+        <target state="translated"></target>
+        <note from="developer">Add button in the share dialog</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/ShareTo/ShareTo.strings__%04__Add to Bookmarks">
+        <source>Add to Bookmarks</source>
+        <target state="translated"></target>
+        <note from="developer">On/off toggle to select adding this url to your bookmarks</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/ShareTo/ShareTo.strings__%04__Add to Reading List">
+        <source>Add to Reading List</source>
+        <target state="translated"></target>
+        <note from="developer">On/off toggle to select adding this url to your reading list</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/Today/Info.plist__%04__CFBundleDisplayName">
+        <source>$(MOZ_BUNDLE_DISPLAY_NAME)</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/Today/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/Today/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/Today/Today.strings__%04__TodayWidget.GoToCopiedLinkLabel">
+        <source>Go to copied link</source>
+        <target state="translated"></target>
+        <note from="developer">Go to link on clipboard</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/Today/Today.strings__%04__TodayWidget.NewPrivateTabButtonLabel">
+        <source>New Private Tab</source>
+        <target state="translated"></target>
+        <note from="developer">New Private Tab button label</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/Today/Today.strings__%04__TodayWidget.NewTabButtonLabel">
+        <source>New Tab</source>
+        <target state="translated"></target>
+        <note from="developer">New Tab button label</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/ViewLater/Info.plist__%04__CFBundleDisplayName">
+        <source>View Later</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/ViewLater/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Extensions/ViewLater/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated">4.0.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="NativeRefTests/Other/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="NativeRefTests/Other/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated">4.0.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ReadingList/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ReadingList/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated">4.0.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ReadingListTests/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="ReadingListTests/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated">4.0.0</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shared/Supporting Files/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated">$(PRODUCT_NAME)</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shared/Supporting Files/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Shared/Supporting Files/Shared.strings__%04__%@ on %@">
+        <source>%1$@ on %2$@</source>
+        <target state="translated"></target>
+        <note from="developer">A brief descriptive name for this app on this device, used for Send Tab and Synced Tabs. The first argument is the app name. The second argument is the device name.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SharedTests/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SharedTests/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Storage.strings__%04__Bookmarks Menu">
+        <source>Bookmarks Menu</source>
+        <target state="translated"></target>
+        <note from="developer">The name of the folder that contains desktop bookmarks in the menu. This should match bookmarks.folder.menu.label on Android.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Storage.strings__%04__Bookmarks Toolbar">
+        <source>Bookmarks Toolbar</source>
+        <target state="translated"></target>
+        <note from="developer">The name of the folder that contains desktop bookmarks in the toolbar. This should match bookmarks.folder.toolbar.label on Android.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Storage.strings__%04__Mobile Bookmarks">
+        <source>Mobile Bookmarks</source>
+        <target state="translated"></target>
+        <note from="developer">The title of the folder that contains mobile bookmarks. This should match bookmarks.folder.mobile.label on Android.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Storage.strings__%04__Unsorted Bookmarks">
+        <source>Unsorted Bookmarks</source>
+        <target state="translated"></target>
+        <note from="developer">The name of the folder that contains unsorted desktop bookmarks. This should match bookmarks.folder.unfiled.label on Android.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Storage.strings__%04__Untitled">
+        <source>Untitled</source>
+        <target state="translated"></target>
+        <note from="developer">The default name for bookmark folders without titles.
+   The default name for bookmark nodes without titles.</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="StorageTests/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="StorageTests/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sync/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="Sync/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SyncTests/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="SyncTests/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="UITests/Info.plist__%04__CFBundleName">
+        <source>$(PRODUCT_NAME)</source>
+        <target state="translated"></target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="UITests/Info.plist__%04__CFBundleShortVersionString">
+        <source>4.0.0</source>
+        <target state="translated"></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
