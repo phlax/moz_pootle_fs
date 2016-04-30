@@ -32,9 +32,8 @@ def test_moz_ios_deserializer(ios_store, ios_file):
     assert data == ios_file
 
 
-@pytest.mark.xfail(reason="Serializer doesnt work yet!")
 @pytest.mark.django_db
-def test_moz_ios_serializer(ios_store, ios_file):
+def test_moz_ios_serializers(ios_store, ios_file):
 
     data = ios_store.serialize()
 
@@ -43,4 +42,17 @@ def test_moz_ios_serializer(ios_store, ios_file):
     for serializer in ios_serializers:
         data = serializer(ios_store, data).output
 
-    assert data[:5000] == ios_file[:5000]
+    assert data.strip() == ios_file.strip()
+
+
+@pytest.mark.django_db
+def test_moz_ios_project_serializers(ios_store, ios_file):
+    
+    project = ios_store.translation_project.project
+    project.serializers = "ios"
+    project.save()
+
+    data = ios_store.serialize()
+
+    assert data.strip() == ios_file.strip()
+
