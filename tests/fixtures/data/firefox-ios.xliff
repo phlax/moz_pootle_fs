@@ -205,7 +205,7 @@
       </trans-unit>
       <trans-unit id="touchid.require.passcode.reason.label">
         <source>Use your fingerprint to access configuring your required passcode interval.</source>
-        <note>Touch ID prompt subtitle when accessing  the require passcode setting</note>
+        <note>Touch ID prompt subtitle when accessing the require passcode setting</note>
       </trans-unit>
     </body>
   </file>
