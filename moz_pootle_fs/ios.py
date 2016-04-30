@@ -36,8 +36,7 @@ class IOSSerializer(XMLPrettySerializer):
                NS_XSI,
                1.2,
                NS_XLIFF_1_2,
-               XSD_XLIFF_1_2),
-            parser=self.parser)
+               XSD_XLIFF_1_2))
 
     def create_tool_header(self):
         tool = etree.Element("tool")
@@ -81,11 +80,11 @@ class IOSSerializer(XMLPrettySerializer):
             node.getroottree().getroot(),
             filename,
             source_language,
-            target_language).insert(2, node)
+            target_language).append(node)
 
     def handle_unit_node(self, node):
         original_id = node.get("id")
-        filename = node.get("id").split("__%04__")[0]
+        filename = node.get("id").split("__%04__")[1]
         node.set("id", original_id.split("__%04__").pop())
         for k in [i for i in node.keys() if i != "id"]:
             etree.strip_attributes(node, k)
@@ -98,11 +97,18 @@ class IOSSerializer(XMLPrettySerializer):
         return xml
 
     def serialize(self, xml):
-        xml = self.convert_doc(xml, self.xliff_root_node)
-        xml = self.remove_empty(xml, '//target')
+        xml = self.convert_doc(xml, self.xliff_root_node)    
+        xml = self.strip_attributes(xml, '//note', ["from"])
+        xml = self.strip_attributes(xml, '//target', ["state"])
         xml = self.reorder_units(xml)
+        xml = self.remove_empty(xml, '//target')
         xml = self.remove_empty(xml, '//body')
         xml = self.remove_empty(xml, '//file')
+
+        notes = xml.xpath("//note")
+        
+        # import pdb; pdb.set_trace()
+
         return super(IOSSerializer, self).serialize(xml)
 
 
