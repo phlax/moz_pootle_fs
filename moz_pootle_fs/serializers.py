@@ -63,7 +63,17 @@ class XMLSerializer(Serializer):
     def remove_empty(self, xml, path):
         for node in xml.xpath(path):
             if not node.text and not node.getchildren():
-                node.getparent().remove(node)
+                parent = node.getparent()
+                if node.getnext() is None and node.getprevious() is not None:
+                    previous = node.getprevious()
+                    previous.tail = previous.tail[:-2]
+                parent.remove(node)
+        return xml
+
+    def strip_attributes(self, xml, path, attrs):
+        for node in xml.xpath(path):
+            for k in [i for i in node.keys() if i in attrs]:
+                etree.strip_attributes(node, k)
         return xml
 
 
